@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/eyal7/CLionProjects/ex3-eyal_haluts/tweetsGenerator.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

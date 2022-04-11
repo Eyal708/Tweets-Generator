@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/ex3_eyal_haluts.dir/tweetsGenerator.c.o  -o ex3_eyal_haluts.exe -Wl,--out-implib,libex3_eyal_haluts.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

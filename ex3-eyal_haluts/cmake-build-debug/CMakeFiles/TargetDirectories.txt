@@ -1,0 +1,3 @@
+/cygdrive/c/Users/eyal7/CLionProjects/ex3-eyal_haluts/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/eyal7/CLionProjects/ex3-eyal_haluts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/eyal7/CLionProjects/ex3-eyal_haluts/cmake-build-debug/CMakeFiles/ex3_eyal_haluts.dir
